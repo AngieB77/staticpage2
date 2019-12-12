@@ -1,0 +1,150 @@
+nav{
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100vw;
+    
+    }
+    
+    nav ul li {
+    float: right;
+    margin-right: 50px;
+    list-style-type: none;
+    text-align: center;
+    }
+    #brand{
+      float: left;
+    }
+    .nav-link{
+      color: red;
+      text-decoration: none;
+      font-family: 'acme', sans-serif;
+    }
+    
+    
+    .nav-link:hover{
+      color: yellow;
+      font-weight: bold;
+    }
+    
+    #brand .nav-link {
+      color: purple;
+      font-size: 26pt;
+    }
+    #headers { 
+      
+      margin-top: 80px;
+    }
+    
+    body  {
+      background-image: url("./assets/background.jpg");
+      font-family: 'indie flower', cursive;
+    }
+    title {
+      font-size: 25;
+      font-family: 'comic sans', cursive;
+      text-align: center;
+    }
+    h1 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align:  center
+    }
+    h2 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align: center
+    }h3 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align: center
+    }h4 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align: center
+    }
+    h5 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align: center 
+     
+    }h6 {
+      font-size: 20pt;
+      font-family: 'indie flower', cursive;
+      text-align: center 
+     
+    }
+    
+    #home{
+      margin-top: 200px;
+      position: relative;
+        left: -8px;
+      width: 100vw;
+      height: 300vh;
+      padding-top: 3em;
+      background:  background-size; 
+      
+    }
+    
+    .header-tag{
+      text-align: center;
+      color:red;
+      text-shadow: 2px 2px 2px red;
+    }
+    .button1{
+      text-align: center;
+      color: rgb(156, 18, 18);
+    }
+     .styled {
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color: #fff;
+        text-shadow: 1px 1px 1px #000;
+        border-radius: 10px;
+        background-color: rgba(220, 0, 0, 1);
+        background-image: linear-gradient(to top left,
+                                          rgba(2, 5, 0, .2),
+                                          rgba(0, 0, 0, .2) 30%,
+                                          rgba(0, 0, 0, 0));
+        box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                    inset -2px -2px 3px rgba(0, 0, 0, .6);
+    }
+     .button2
+      .styled {
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color:#fff;
+        text-shadow: 1px 1px 1px #000;
+        border-radius: 10px;
+        background-color: blue(220, 0, 0, 1);
+        background-image: linear-gradient(rgba(0, 0, 255, .2),
+                                         rgba(0, 0, 0, .2),blue(0, 0, 0, 0));
+        box-shadow: inset 2px 2px 3px blue(255, 255, 255, .6),
+                    inset -2px -2px 3px blue(0, 0, 0, .6);
+       }
+     .button3  
+        .styled {
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color: #fff;
+        text-shadow: 1px 1px 1px #000;
+        border-radius: 10px;
+        background-color: rgba(220, 0, 0, 1);
+        background-image: linear-gradient(to top left,
+                                          rgba(0, 0, 0, .2),
+                                          rgba(0, 0, 0, .2) 30%,
+                                          rgba(0, 0, 0, 0));
+        box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                    inset -2px -2px 3px rgba(0, 0, 0, .6);
+       }
